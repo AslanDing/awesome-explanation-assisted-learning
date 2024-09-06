@@ -7,6 +7,7 @@ This repo is a paper collection of explanation assisted learning topic(explanati
 
 
 ### Conference
+- [2024] [ICML] Cheng, Zelei, et al. RICE: Breaking Through the Training Bottlenecks of Reinforcement Learning with Explanation.[[paper]](https://openreview.net/pdf?id=PKJqsZD5nQ)  [[code]](https://github.com/chengzelei/RICE)
 - [2024] [ICML] Huang, Zheng, et al. Enhancing Size Generalization in Graph Neural Networks through Disentangled Representation Learning. [[paper]](https://openreview.net/forum?id=0NdU4y9dWC) [[code]](https://github.com/GraphmindDartmouth/DISGEN)
 - [2024] [ICLR] Feng, Zijian, et al. Unveiling and manipulating prompt influence in large language models. [[paper]](https://openreview.net/pdf?id=ap1ByuwQrX) [[code]](https://github.com/zijian678/TDD).
 - [2024] [ICLR] Fan, Chongyu, et al. SalUn: Empowering Machine Unlearning via Gradient-based Weight Saliency in Both Image Classification and Generation. [[paper]](https://openreview.net/pdf?id=gn0mIhQGNM) [[code]](https://github.com/OPTML-Group/Unlearn-Saliency)
