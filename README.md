@@ -7,6 +7,7 @@ This repo is a paper collection of explanation assisted learning topic(explanati
 
 
 ### Conference
+- [2024] [NIPS] Yingjun Du, et al. IPO: Interpretable Prompt Optimization for Vision-Language Models. [paper](https://openreview.net/pdf?id=WPPC7FHtaM)
 - [2024] [NIPS] Farnoush Rezaei Jafari, et al. MambaLRP: Explaining Selective State Space Sequence Models. [paper](https://openreview.net/pdf?id=2n1Ysn1EDl)
 - [2024] [NIPS] Rohan Paleja, et al. Designs for Enabling Collaboration in Human-Machine Teaming via Interactive and Explainable Systems. [paper](https://openreview.net/pdf?id=XrK4JK2jBr)
 - [2024] [NIPS] Jason Gross, et al. Compact Proofs of Model Performance via Mechanistic Interpretability. [paper](https://openreview.net/pdf?id=2zWbzx50mH)
