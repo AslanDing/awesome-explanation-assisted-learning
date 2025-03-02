@@ -7,6 +7,7 @@ This repo is a paper collection of explanation assisted learning topic(explanati
 
 
 ### Conference
+- [2024] [NIPS] Jason Gross, et al. Compact Proofs of Model Performance via Mechanistic Interpretability. [paper](https://openreview.net/pdf?id=2zWbzx50mH)
 - [2024] [NIPS] Pasan Dissanayake, Sanghamitra Dutta. Model Reconstruction Using Counterfactual Explanations: A Perspective From Polytope Theory. [paper](https://openreview.net/pdf?id=9uolDxbYLm)
 - [2024] [ICML] Bjørn, Christian, et al. Finding NEM-U: Explaining unsupervised representation learning through neural network generated explanation masks. [[paper]](https://openreview.net/attachment?id=Hzpt1Gws9g&name=pdf)
 - [2024] [ICML] Cheng, Zelei, et al. RICE: Breaking Through the Training Bottlenecks of Reinforcement Learning with Explanation.[[paper]](https://openreview.net/pdf?id=PKJqsZD5nQ)  [[code]](https://github.com/chengzelei/RICE)
