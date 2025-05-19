@@ -7,8 +7,9 @@ This repo is a paper collection of explanation assisted learning topic(explanati
 
 
 ### Conference
+- [2025] [ICLR] Junqi Jiang, et al. Interpreting Language Reward Models via Contrastive Explanations[[paper]](https://openreview.net/forum?id=i8IwcQBi74)
 - [2025] [ICLR] Hanning Guo, et al. XAIguiFormer: explainable artificial intelligence guided transformer for brain disorder identification. [[paper]](https://openreview.net/forum?id=AD5yx2xq8R)
-- [2025] [ICLR] Lirong Wu, et al. A Simple yet Effective $\delta \delta G$ Predictor is An Unsupervised Antibody Optimizer and Explainer. [[paper]](https://openreview.net/forum?id=IxmWIkcKs5)
+- [2025] [ICLR] Lirong Wu, et al. A Simple yet Effective $\Delta \Delta G$ Predictor is An Unsupervised Antibody Optimizer and Explainer. [[paper]](https://openreview.net/forum?id=IxmWIkcKs5)
 - [2025] [ICLR] Shicheng Liu, et al. UTILITY: Utilizing Explainable Reinforcement Learning to Improve Reinforcement Learning. [[paper]](https://openreview.net/forum?id=Tk1VQDadfL)
 - [2024] [NIPS] Jiang  Nan, et al. LeDex: Training LLMs to Better Self-Debug and Explain Code.[[paper]](https://openreview.net/forum?id=d1XrZ4EINV)
 - [2024] [NIPS] Yuefei Lyu, et al. Enhancing Robustness of Graph Neural Networks on Social Media with Explainable Inverse Reinforcement Learning. [paper](https://openreview.net/pdf?id=ziehA15y8k)
