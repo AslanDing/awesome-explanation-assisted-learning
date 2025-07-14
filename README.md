@@ -7,6 +7,7 @@ This repo is a paper collection of explanation assisted learning topic(explanati
 
 
 ### Conference
+- [2025] [ICML] Osman Berke Guney, et al. Active feature acquisition via explainability-driven ranking[[paper]](https://openreview.net/forum?id=J8YRdm39jn)
 - [2025] [ICLR] Junqi Jiang, et al. Interpreting Language Reward Models via Contrastive Explanations[[paper]](https://openreview.net/forum?id=i8IwcQBi74)
 - [2025] [ICLR] Hanning Guo, et al. XAIguiFormer: explainable artificial intelligence guided transformer for brain disorder identification. [[paper]](https://openreview.net/forum?id=AD5yx2xq8R)
 - [2025] [ICLR] Lirong Wu, et al. A Simple yet Effective $\Delta \Delta G$ Predictor is An Unsupervised Antibody Optimizer and Explainer. [[paper]](https://openreview.net/forum?id=IxmWIkcKs5)
