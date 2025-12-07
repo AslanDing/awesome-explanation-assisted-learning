@@ -7,6 +7,7 @@ This repo is a paper collection of explanation assisted learning topic(explanati
 
 
 ### Conference
+- [2025] [NIPS] Jongseo Lee, et al. Disentangled Concepts Speak Louder Than Words: Explainable Video Action Recognition[[paper]](https://openreview.net/forum?id=J8YRdm39jn)
 - [2025] [ICML] Osman Berke Guney, et al. Active feature acquisition via explainability-driven ranking[[paper]](https://openreview.net/forum?id=J8YRdm39jn)
 - [2025] [ICLR] Junqi Jiang, et al. Interpreting Language Reward Models via Contrastive Explanations[[paper]](https://openreview.net/forum?id=i8IwcQBi74)
 - [2025] [ICLR] Hanning Guo, et al. XAIguiFormer: explainable artificial intelligence guided transformer for brain disorder identification. [[paper]](https://openreview.net/forum?id=AD5yx2xq8R)
