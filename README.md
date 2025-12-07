@@ -7,6 +7,7 @@ This repo is a paper collection of explanation assisted learning topic(explanati
 
 
 ### Conference
+- [2025] [NIPS] Ruiyang Zhou, et al. ExPO: Unlocking Hard Reasoning with Self-Explanation-Guided Reinforcement Learning[[paper]](https://openreview.net/forum?id=D1PeGJtVEu)
 - [2025] [NIPS] Jongseo Lee, et al. Disentangled Concepts Speak Louder Than Words: Explainable Video Action Recognition[[paper]](https://openreview.net/forum?id=J8YRdm39jn)
 - [2025] [ICML] Osman Berke Guney, et al. Active feature acquisition via explainability-driven ranking[[paper]](https://openreview.net/forum?id=J8YRdm39jn)
 - [2025] [ICLR] Junqi Jiang, et al. Interpreting Language Reward Models via Contrastive Explanations[[paper]](https://openreview.net/forum?id=i8IwcQBi74)
