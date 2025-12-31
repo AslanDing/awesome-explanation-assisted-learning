@@ -7,6 +7,7 @@ This repo is a paper collection of explanation assisted learning topic(explanati
 
 
 ### Conference
+- [2025] [NIPS] Faisal Hamman, et al. Few-Shot Knowledge Distillation of LLMs With Counterfactual Explanations. [[paper]](https://openreview.net/forum?id=AzOUIMzDxC)
 - [2025] [NIPS] Keshav Ramji, et al. Latent Principle Discovery for Language Model Self-Improvement. [[paper]](https://openreview.net/forum?id=T3ReIjtbYy)
 - [2025] [NIPS] Anthony Fuller, et al. LookWhere? Efficient Visual Recognition by Learning Where to Look and What to See from Self-Supervision[[paper]](https://openreview.net/forum?id=a1fWrvr72O)
 - [2025] [NIPS] Ruiyang Zhou, et al. ExPO: Unlocking Hard Reasoning with Self-Explanation-Guided Reinforcement Learning[[paper]](https://openreview.net/forum?id=D1PeGJtVEu)
