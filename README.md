@@ -7,6 +7,7 @@ This repo is a paper collection of explanation assisted learning topic(explanati
 
 
 ### Conference
+- [2025] [NIPS] Shufan Shen, et al.  VL-SAE: Interpreting and Enhancing Vision-Language Alignment with a Unified Concept Set. [[paper]](https://openreview.net/forum?id=1Sb0363f2y)
 - [2025] [NIPS] Faisal Hamman, et al. Few-Shot Knowledge Distillation of LLMs With Counterfactual Explanations. [[paper]](https://openreview.net/forum?id=AzOUIMzDxC)
 - [2025] [NIPS] Keshav Ramji, et al. Latent Principle Discovery for Language Model Self-Improvement. [[paper]](https://openreview.net/forum?id=T3ReIjtbYy)
 - [2025] [NIPS] Anthony Fuller, et al. LookWhere? Efficient Visual Recognition by Learning Where to Look and What to See from Self-Supervision[[paper]](https://openreview.net/forum?id=a1fWrvr72O)
