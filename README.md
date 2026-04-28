@@ -7,7 +7,6 @@ This repo is a paper collection of explanation assisted learning topic(explanati
 
 
 ### Conference
-- []
 - [2026] [ICLR] Shicheng Liu, Minghui Zhu. Leveraging Explanation to Improve Generalization of Meta Reinforcement Learning. [[paper]](https://openreview.net/forum?id=Rg8PBd9Ow2)
 - [2026] [ICLR] Zhen Tan, et al. Probing to Refine: Reinforcement Distillation of LLM Reasoners via Explanatory Inversion. [[paper]](https://openreview.net/forum?id=rkIw2GqYEt)
 - [2025] [NIPS] Jusheng Zhang, et al. CF-VLM: CounterFactual Vision-Language Fine-tuning. [[paper]](https://openreview.net/forum?id=0qGtaRTsCo)
