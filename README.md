@@ -6,11 +6,13 @@ This repo is a paper collection of explanation assisted learning topic(explanati
 - [2024] [ACM] Gao, Yuyang, et al. Going beyond xai: A systematic survey for explanation-guided learning. [[paper]](https://arxiv.org/pdf/2212.03954)
 
 
-### Conference
+### ICML/NeurIPS/ICLR Conference
+- [2026] [ICML] Dawood Wasif, et al. Explainable Federated Learning via Global–Local Attribution Alignment. [[paper]](https://openreview.net/forum?id=gicCGXeG2P)
 - [2026] [ICML] Michal Moshkovitz, et al. Position: Explainability Research Must Prioritize Foundations over Ad-hoc Methods. [[paper]](https://openreview.net/forum?id=HaduBh7EaL)
 - [2026] [ICML] Doojin Baek, et al. Learning to Theorize the World from Observation. [[paper]](https://openreview.net/forum?id=wsA8LgHU5U)
 - [2026] [ICLR] Shicheng Liu, Minghui Zhu. Leveraging Explanation to Improve Generalization of Meta Reinforcement Learning. [[paper]](https://openreview.net/forum?id=Rg8PBd9Ow2)
 - [2026] [ICLR] Zhen Tan, et al. Probing to Refine: Reinforcement Distillation of LLM Reasoners via Explanatory Inversion. [[paper]](https://openreview.net/forum?id=rkIw2GqYEt)
+- [2025] [NIPS] Awni Altabaa, et al. CoT Information: Improved Sample Complexity under Chain-of-Thought Supervision.  [[paper]](https://openreview.net/forum?id=OkVQJZWGfn)
 - [2025] [NIPS] Jusheng Zhang, et al. CF-VLM: CounterFactual Vision-Language Fine-tuning. [[paper]](https://openreview.net/forum?id=0qGtaRTsCo)
 - [2025] [NIPS] Shufan Shen, et al.  VL-SAE: Interpreting and Enhancing Vision-Language Alignment with a Unified Concept Set. [[paper]](https://openreview.net/forum?id=1Sb0363f2y)
 - [2025] [NIPS] Faisal Hamman, et al. Few-Shot Knowledge Distillation of LLMs With Counterfactual Explanations. [[paper]](https://openreview.net/forum?id=AzOUIMzDxC)
@@ -38,6 +40,9 @@ This repo is a paper collection of explanation assisted learning topic(explanati
 - [2024] [ICLR] Akari Asai, et al. Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection. [[paper]](https://openreview.net/pdf?id=hSyW5go0v8) [[code]](https://selfrag.github.io/)
 - [2024] [ICLR] Anshuman Chhabra, et al. "What Data Benefits My Classifier?" Enhancing Model Performance and Interpretability through Influence-Based Data Selection. [[paper]](https://openreview.net/pdf?id=HE9eUQlAvo) [[code]](https://github.com/anshuman23/InfDataSel)
 
+### Other Conference
+- [2026] [FOCS] Steve Hanneke, et al. Sample Complexity of Autoregressive Reasoning: Chain-of-Thought vs. End-to-End. [[paper]](https://arxiv.org/abs/2604.12013)
+- [2025] [COLT] Nirmit Joshi, et al. A Theory of Learning with Autoregressive Chain of Thought.  [[paper]](https://proceedings.mlr.press/v291/joshi25a.html)
 
 ### Journal
 
