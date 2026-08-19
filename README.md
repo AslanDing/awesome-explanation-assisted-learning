@@ -7,6 +7,8 @@ This repo is a paper collection of explanation assisted learning topic(explanati
 
 
 ### Conference
+- [2026] [ICML] Michal Moshkovitz, et al. Position: Explainability Research Must Prioritize Foundations over Ad-hoc Methods. [[paper]](https://openreview.net/forum?id=HaduBh7EaL)
+- [2026] [ICML] Doojin Baek, et al. Learning to Theorize the World from Observation. [[paper]](https://openreview.net/forum?id=wsA8LgHU5U)
 - [2026] [ICLR] Shicheng Liu, Minghui Zhu. Leveraging Explanation to Improve Generalization of Meta Reinforcement Learning. [[paper]](https://openreview.net/forum?id=Rg8PBd9Ow2)
 - [2026] [ICLR] Zhen Tan, et al. Probing to Refine: Reinforcement Distillation of LLM Reasoners via Explanatory Inversion. [[paper]](https://openreview.net/forum?id=rkIw2GqYEt)
 - [2025] [NIPS] Jusheng Zhang, et al. CF-VLM: CounterFactual Vision-Language Fine-tuning. [[paper]](https://openreview.net/forum?id=0qGtaRTsCo)
