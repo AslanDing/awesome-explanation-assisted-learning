@@ -12,6 +12,7 @@ This repo is a paper collection of explanation assisted learning topic(explanati
 - [2026] [ICML] Doojin Baek, et al. Learning to Theorize the World from Observation. [[paper]](https://openreview.net/forum?id=wsA8LgHU5U)
 - [2026] [ICLR] Shicheng Liu, Minghui Zhu. Leveraging Explanation to Improve Generalization of Meta Reinforcement Learning. [[paper]](https://openreview.net/forum?id=Rg8PBd9Ow2)
 - [2026] [ICLR] Zhen Tan, et al. Probing to Refine: Reinforcement Distillation of LLM Reasoners via Explanatory Inversion. [[paper]](https://openreview.net/forum?id=rkIw2GqYEt)
+- [2025] [NIPS] Alessandro Marchese, et al. Causal Explanation-Guided Learning for Organ Allocation. [[paper]](https://proceedings.neurips.cc/paper_files/paper/2025/hash/fde7a53da2d95f459331e308e684c9a9-Abstract-Conference.html)
 - [2025] [NIPS] Awni Altabaa, et al. CoT Information: Improved Sample Complexity under Chain-of-Thought Supervision.  [[paper]](https://openreview.net/forum?id=OkVQJZWGfn)
 - [2025] [NIPS] Jusheng Zhang, et al. CF-VLM: CounterFactual Vision-Language Fine-tuning. [[paper]](https://openreview.net/forum?id=0qGtaRTsCo)
 - [2025] [NIPS] Shufan Shen, et al.  VL-SAE: Interpreting and Enhancing Vision-Language Alignment with a Unified Concept Set. [[paper]](https://openreview.net/forum?id=1Sb0363f2y)
